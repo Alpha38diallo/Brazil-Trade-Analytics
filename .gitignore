@@ -1,2 +1,24 @@
+# Virtual environment
 venv/
-.env 
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Data files
+data/raw/
+data/processed/
+
+# Generated reports
+reports/figures/
+reports/dashboards/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
