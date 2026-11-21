@@ -12,11 +12,9 @@ The goal is to identify major trade trends, top trading partners, leading import
 
 - Data extraction from UN Comtrade
 - Data cleaning and transformation
-- Trade balance analysis
-- Import and export trend analysis
-- Trading partner analysis
-- Product-level trade analysis
-- Interactive Streamlit dashboard
+- Exploratory Trade Analysis
+- Interactive Plotly Visualizations
+- Streamlit Dashboard
 - Dynamic filtering by:
   - Year
   - Trading Partner
@@ -24,10 +22,17 @@ The goal is to identify major trade trends, top trading partners, leading import
 
 ## 🛠️ Technologies Used
 
+### Data Processing
 - Python
 - Pandas
+
+### Data Visualization
 - Plotly
+
+### Dashboard Development
 - Streamlit
+
+### Version Control
 - Git
 - GitHub
 
@@ -158,4 +163,3 @@ Alpha Diallo
 Data Analyst | Aspiring Data Engineer
 
 ---
-Data source: UN Comtrade
